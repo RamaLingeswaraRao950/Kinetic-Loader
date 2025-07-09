@@ -4,7 +4,7 @@ A visually stunning animated loader. It features rotating triangle shapes with a
 
 ## 🌄 Description :--
 
-It demonstrates a **Kinetic loader animation** using pseudo-elements, keyframe animations, and a multicolor animated gradient background. It's lightweight, fully responsive, and visually appealing for modern UIs.
+It demonstrates a **Kinetic loader** using pseudo-elements, keyframe animations, and a multicolor animated gradient background. It's lightweight, fully responsive, and visually appealing for modern UIs.
 
 ## ✨ Features :--
 
