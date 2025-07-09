@@ -10,10 +10,5 @@ It demonstrates a **Kinetic loader animation** using pseudo-elements, keyframe a
 
 🎞️ Smooth triangle rotation animation  
 🎨 Dynamic gradient background animation  
-💡 Pure HTML & CSS – no JavaScript needed  
 📱 Centered, full-screen responsive layout  
 🧩 Reusable as a standalone loading screen in any web project
-
-## 🛠️ Tech Stack :--
-
-🧱 HTML5 | 🎨 CSS3
